@@ -23,3 +23,20 @@
     .KOSICH {
     color: crimson;
     }
+    .table {
+        width: 100%;
+      }
+    
+     table, th, td {
+        border: 3px solid #0b0a0a;
+        padding: 6px;
+        text-align: center;
+      }
+    
+      th {
+        background-color: #957b1467;
+      }
+      td {
+        background-color: rgb(77, 57, 33);
+      }
+      
